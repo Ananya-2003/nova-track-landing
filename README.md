@@ -16,4 +16,4 @@ Simple React + Vite landing page built mobile-first with Tailwind CSS.
 - CTA footer
 
 ## Notes
-This page was implemented to be small, accessible, and easy to explain in interviews.
+This page was implemented to be small and easily accessible
