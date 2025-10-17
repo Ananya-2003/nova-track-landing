@@ -1,0 +1,5 @@
+- Use system fonts to avoid extra network requests.
+- Use inline SVGs for icons and simple graphics.
+- Lazy-load non-essential images (we added loading="lazy" for logos).
+- Reduce JS: keep components small and avoid big libraries.
+- Test mobile Lighthouse and fix largest contentful paint by keeping images small.
